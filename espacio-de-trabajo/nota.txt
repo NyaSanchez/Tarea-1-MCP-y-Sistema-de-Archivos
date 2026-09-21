@@ -1,0 +1,2 @@
+Este archivo fue creado por el servidor MCP de sistema de archivos.
+Esta línea se agregó después, para demostrar la operación de modificación.
